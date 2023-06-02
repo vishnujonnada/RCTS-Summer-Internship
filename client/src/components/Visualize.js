@@ -59,42 +59,7 @@ const DataVisualization = () => {
         
       </div>
       <div style={{ display: 'flex', justifyContent: 'center' ,marginLeft:'170px',marginRight:'170px',marginTop:'10px',marginBottom:'10px'}}>
-        {/* <div
-          style={{
-            backgroundColor: 'lightgray',
-            flex: 1,
-            width: '120px',
-            height: '170px',
-            margin: '10px',
-            display: 'flex',
-            alignItems: 'center',
-            justifyContent: 'center',
-            cursor: 'pointer',
-            border:'2px solid black',
-            borderRadius:'10px'
-          }}
-          onClick={() => handleClick('tree-map')}
-        >
-          <span>Tree Map Chart</span>
-        </div> */}
-        {/* <div
-          style={{
-            backgroundColor: 'lightgray',
-            flex: 1,
-            width: '120px',
-            height: '170px',
-            margin: '10px',
-            display: 'flex',
-            alignItems: 'center',
-            justifyContent: 'center',
-            cursor: 'pointer',
-            border:'2px solid black',
-            borderRadius:'10px'
-          }}
-          onClick={() => handleClick('radar')}
-        >
-          <span>Radar Chart</span>
-        </div> */}
+       
         <div
           style={{
             backgroundColor: 'lightgray',

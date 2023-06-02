@@ -17,10 +17,7 @@ function Home() {
   };
   return (
     <div>
-      {/* Navigation bar */}
-   
-
-      {/* Centered heading */}
+     
       <div className='bor'>
       
       <h1 className="centered-heading">REDA-Representation Of Data</h1>
