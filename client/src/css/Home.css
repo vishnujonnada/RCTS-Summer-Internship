@@ -1,0 +1,52 @@
+
+
+  /* CSS for centered heading */
+  .centered-heading {
+    text-align: center;
+    margin-top: 50px;
+  }
+
+  /* CSS for select options and submit button */
+  .data-form {
+    text-align: center;
+    margin-top: 50px;
+  }
+
+  .data-form label, .data-form select, .data-form button {
+    display: block;
+    margin: 10px auto;
+  }
+
+  .data-form button {
+    padding: 10px 20px;
+    background-color: #323232;
+    color: white;
+    border: none;
+    cursor: pointer;
+  }
+
+  .data-form button[type="submit"]:hover {
+    background-color: #45a049;
+  }
+
+ 
+
+  /* CSS for select options */
+.custom-select {
+  width: 200px;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  font-size: 16px;
+  background-color: #fff;
+}
+ body{
+  background-color:#DDD0C8;
+  color: #323232;
+ }
+ 
+ 
+
+
+
+

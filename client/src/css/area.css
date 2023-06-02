@@ -1,0 +1,10 @@
+.chart-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  
+  .chart-wrapper {
+    margin: 20px;
+  }
+  
