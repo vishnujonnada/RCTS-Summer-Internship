@@ -35,21 +35,26 @@
 6. **Data Visualization:**The frontend retrieves the stored raw data and analytics output from the backend and visualizes them.
     -The raw data is presented using suitable charts, tables, or graphs to provide an overview.
 
-## User Interface
+## User Interfaces
 
 - Home Page:
+
 ![home](https://github.com/vishnujonnada/RCTS-Summer-Internship/assets/94098444/1da77397-33f0-4390-9bf0-03d6ece5d772)
 
 - Form Page:
+
 ![form](https://github.com/vishnujonnada/RCTS-Summer-Internship/assets/94098444/ef92f2b6-34bf-411e-bb55-2b2dcd5b1881)
 
 - Excel Upload Page:
+
 ![excel](https://github.com/vishnujonnada/RCTS-Summer-Internship/assets/94098444/9dca0764-414d-4e1e-a306-f98ef7413ad3)
 
 - Data Visualization Page:
+
 ![visualise](https://github.com/vishnujonnada/RCTS-Summer-Internship/assets/94098444/2d8fe8e1-b987-4900-849f-9de73f5a751f)
 
 - Chart Pages
+
 ![Screenshot (8)](https://github.com/vishnujonnada/RCTS-Summer-Internship/assets/94098444/962428b4-c28d-48ea-94ca-6a2e6b089fc9)
 
 ![Screenshot (7)](https://github.com/vishnujonnada/RCTS-Summer-Internship/assets/94098444/aabeeb9b-dc8c-40f7-a648-d5f811a07e92)
