@@ -30,10 +30,10 @@
 3. **Analytics Processing:** The backend triggers the Python script to perform analytics on the stored    data. The script is executed through an API call.
     -The Python script receives the required data from the database and performs the desired analytics tasks.
     
-4. **Output Storage:**The results of the analytics script are stored in the database by the backend.
-5. 
-6. **Data Visualization:**The frontend retrieves the stored raw data and analytics output from the backend and visualizes them.
-    -The raw data is presented using suitable charts, tables, or graphs to provide an overview.
+4. **Output Storage:** The results of the analytics script are stored in the database by the backend.
+ 
+5. **Data Visualization:** The frontend retrieves the stored raw data and analytics output from the backend and visualizes them.
+    The raw data is presented using suitable charts, tables, or graphs to provide an overview.
 
 ## User Interfaces
 
